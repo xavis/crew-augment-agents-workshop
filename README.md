@@ -2,7 +2,7 @@
 
 Este repositorio/notebook muestra cómo montar un **equipo multi‑agente jerárquico** con **CrewAI** usando **Google Gemini 2.5 Flash**, incorporando **herramientas** de búsqueda (Tavily / DuckDuckGo) y una **herramienta de cálculo** para operaciones numéricas.
 
-> Notebook principal: `workshop_devfest_murcia_2026_agents.ipynb`
+> Notebook principal: `augmented_agents.ipynb`
 
 ---
 
